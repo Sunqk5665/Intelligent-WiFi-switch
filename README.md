@@ -1,0 +1,2 @@
+# Intelligent-WiFi-switch
+基于鸿蒙Hi3861芯片并结合舵机实现家庭或宿舍开关的WiFi远程控制
